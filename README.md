@@ -1,7 +1,8 @@
 # Manual-Test
 Teste Manuais - Repositório com alguns teste Manuais de estudo.
 ________________________________________________________________
-Caso de Teste Manual: Teste Funcionais  – nopcommerce.com
+
+## Caso de Teste Manual: Teste Funcionais  – nopcommerce.com ##
 
 Identificação
 Projeto: nopcommerce.com Manual Test Cases
@@ -13,22 +14,23 @@ Responsável: Joaquim Pedro
 Status: Executado
 
 
-Descrição
+## Descrição ##
 
 O conjunto de testes a seguuir, representa testes funcionais manuais, voltados à validação de requisitos e fluxos principais do sistema nopCommerce. com abrangência em:
 
-Cenários positivos e negativos
+- Cenários positivos e negativos
 
-Fluxos de interface e usabilidade
+- Fluxos de interface e usabilidade
 
-Testes de integração entre módulos
+- Testes de integração entre módulos
 
-Teste de fluxo completo (Checkout)
+- Teste de fluxo completo (Checkout)
 
 A planilha cobre testes manuais funcionais de caixa preta, focados em verificar se o sistema se comporta conforme os requisitos previstos e se as mensagens e respostas da interface são adequadas.
 
 
 Pré-condições
+
 Acesso ao demo: https://demo.nopcommerce.com/
 
 Usuário administrador válido (Admin / admin123)
