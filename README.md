@@ -1,10 +1,8 @@
-# Manual-Test
-Teste Manuais - Repositório com alguns teste Manuais de estudo.
-________________________________________________________________
-
 ## Caso de Teste Manual: Teste Funcionais  – nopcommerce.com ##
 
-- Identificação
+_____________________________________________________________________
+
+## Identificação ##
 - Projeto: nopcommerce.com  - Manual Test Cases - 
 
 - Título: Fluxo Completo de Criação de utilização da plataforma
@@ -15,6 +13,7 @@ ________________________________________________________________
 
 
 ## Descrição ##
+
 
 O conjunto de testes a seguuir, representa testes funcionais manuais, voltados à validação de requisitos e fluxos principais do sistema nopCommerce. com abrangência em:
 
@@ -42,9 +41,10 @@ A planilha busca cobrir testes manuais funcionais, do tipo caixa preta, focados 
 
 | ID Teste  | Caso de Teste | Pré Condição | Passos | Resultado Esperado | Status | Resultado Encontrado | 
 | ------------- | ------------- | -------- | ------ | --------| ------ | ---- | 
-| T001  | Cadastro de Novo Usuario  | Não estar logado | 1. Clicar em 'Register' 2- Preencher todos os campos 3- Clicar em Register |  Usário registrado, com mensagem de sucesso. | Passou | O registro foi realizado corretamente, conforme esperado. |
-| T002  | Cadastro com email já existente  | Conta existente com mesmo email  | 1- Ir em 'Register' 2- Preencher email já cadastrado 3- Submeter |  Menagem de erro de email já cadastrado | Passou | O sitema retornou a mensagem de erro de email já cadastrado |
-| T003  | Login com Sucesso  | Usuário já Cadastrado  | 1- Clicar em 'Login in" 2- Prencher dados válidos 3- Submeter |  Login bem sucedido, nome do usuário visivel.  | Falhou | O sistema realiza o login, mas não apresenta o nome do usuário visivel.  |
-| T004  | Login Inválido  | Usuário já Cadastrado  | 1- Clicar em 'Log in' 2- Entrar com um email/senha inválidos 3- Clicar no botão 'LOG IN' |  O sistema devera retornar mensagem de erro 'Login was unsuccessful'  | Passou | O sistema retornou a mensagem de erro 'Login was unsuccessful' após a tentativa de longin com as credenciais indevidadas. |
+| T001   | Cadastro de Novo Usuario  | Não estar logado | 1. Clicar em 'Register' 2- Preencher todos os campos 3- Clicar em Register |  Usário registrado, com mensagem de sucesso. | Passou | O registro foi realizado corretamente, conforme esperado. |
+| T002   | Cadastro com email já existente  | Conta existente com mesmo email  | 1- Ir em 'Register' 2- Preencher email já cadastrado 3- Submeter |  Menagem de erro de email já cadastrado | Passou | O sitema retornou a mensagem de erro de email já cadastrado |
+| T003   | Login com Sucesso  | Usuário já Cadastrado  | 1- Clicar em 'Login in" 2- Prencher dados válidos 3- Submeter |  Login bem sucedido, nome do usuário visivel.  | Falhou | O sistema realiza o login, mas não apresenta o nome do usuário visivel.  |
+| T004   | Login Inválido  | Usuário já Cadastrado  | 1- Clicar em 'Log in' 2- Entrar com um email/senha inválidos 3- Clicar no botão 'LOG IN' |  O sistema devera retornar mensagem de erro 'Login was unsuccessful'  | Passou | O sistema retornou a mensagem de erro 'Login was unsuccessful' após a tentativa de longin com as credenciais indevidadas. |
+| T005   | Busca por produto existente  | Acessar a página e utilizar o campo 'Search store', e usar o termo 'Iphone'  | 1- Localizar o campo 'Search store' 2- Digitar o termo válido no campo de busca 'Iphone' 3- Clicar no botão 'Search' |  O sistema ira realizar a pesquisa e retornar os produtos relacionados de acordo com o item pesquisado  | Passou | O sistema realiza a pesquisa e retorna o resultado conforme o item pesquisado |
 
 _________________________________________________________________
