@@ -57,10 +57,33 @@ _________________________________________________________________
 
 ## Evidências dos Testes ## 
 
-T001
+## T001 ##
 
-Incluir as prints das telas dos testes realizados como evidências dos testes. 
+![01](https://github.com/user-attachments/assets/50445f9d-6d8f-4c1a-8221-98fdae74fea6)
 
+![01 1](https://github.com/user-attachments/assets/d7a27abb-70bc-4767-9aa3-055e3e63304a)
+
+![01 2](https://github.com/user-attachments/assets/caed9cb9-e97a-4b60-853b-c5da45df5bd5)
+
+## T002 ##
+
+![02](https://github.com/user-attachments/assets/adaf33a1-cbae-43fe-95c3-1c13169cbc41)
+
+## T003 ## 
+
+![03](https://github.com/user-attachments/assets/1bc1732d-21de-418f-b9b1-96febea0ad2e)
+
+## BUG Evidência ## 
+
+![03 BUG](https://github.com/user-attachments/assets/e13678fc-d839-4729-9827-406a283140cc)
+
+## T004 ## 
+
+![04](https://github.com/user-attachments/assets/f99427de-ff9f-49c5-b0d8-b4d48e45fd18)
+
+![04 1](https://github.com/user-attachments/assets/f3e39086-b83b-4dd2-8d04-90fc7a252c36)
+
+## T005 ##
 
 
 
