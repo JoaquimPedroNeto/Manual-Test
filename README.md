@@ -5,7 +5,7 @@ _____________________________________________________________________
 ## Identificação ##
 - Projeto: nopcommerce.com  - Manual Test Cases - 
 
-- Título: Fluxo Completo de Criação de utilização da plataforma
+- Título: Fluxo Completo de Teste da plataforma
 
 - Responsável: Joaquim Pedro
 
@@ -85,6 +85,70 @@ _________________________________________________________________
 
 ## T005 ##
 
+![T005 0](https://github.com/user-attachments/assets/94841c9f-5a3c-4d5c-aedf-22d975d709c3)
 
+![T005 1](https://github.com/user-attachments/assets/4c25e0da-dc93-40de-a141-60d1b3be2c0f)
+
+
+## T006 ##
+
+<img width="1238" height="854" alt="image" src="https://github.com/user-attachments/assets/6886c0d1-2f3a-4c64-bd14-e5ee27a9e19a" />
+
+
+## T007 ##
+
+ <img width="1239" height="960" alt="image" src="https://github.com/user-attachments/assets/817d46dc-a6cb-408a-845f-4a18c92ceba6" />
+                  
+## T008 ##
+
+<img width="1243" height="947" alt="image" src="https://github.com/user-attachments/assets/eb43cf30-3be1-4332-a7cb-599e4408c947" />
+
+## T009 ##
+
+<img width="1204" height="947" alt="image" src="https://github.com/user-attachments/assets/50ca83af-dae0-4361-98df-1aca5ea651fd" />
+
+## T010 ##
+
+<img width="1238" height="942" alt="image" src="https://github.com/user-attachments/assets/6c035247-639c-45ba-80ec-ce4bc44e578e" />
+
+## T011 ##
+
+<img width="1225" height="940" alt="image" src="https://github.com/user-attachments/assets/3843fad6-0c4d-446c-bd08-04c5a1234bca" />
+
+
+## T012 ##
+
+<img width="1227" height="952" alt="image" src="https://github.com/user-attachments/assets/5b7199ce-be2a-4089-b1d0-4652ecc6b10f" />
+
+## BUG REPORT 01 ##
+
+|BUG REPORT |        | 
+| --------- | ------ | 
+| Passos para Reprodução | 1- Clicar em 'Login in"   2- Prencher dados válidos 3- Submeter | 
+| Resultado Esperado | Login bem sucedido, nome do usuário visivel.   | 
+| Resultado Encontrado | O sistema realiza o login, mas não apresenta o nome do usuário visivel. |
+| Ambiente de Teste | DEV - https://demo.nopcommerce.com/cart  | 
+| Prioridade | Baixa  | 
+| Tipo | Funcionalidade  | 
+| Evidência | Print de Tela | 
+
+![03](https://github.com/user-attachments/assets/1bc1732d-21de-418f-b9b1-96febea0ad2e)
+
+![03 BUG](https://github.com/user-attachments/assets/e13678fc-d839-4729-9827-406a283140cc)
+
+
+## BUG REPORT 02 ##
+
+|BUG REPORT |        | 
+| --------- | ------ | 
+| Passos para Reprodução | 1- Selecionar itens no catalogo de produtos, e colocar no carrinho de compras 'ADD TO CART'  2- No carrinho de compras, alterar as quantidades dos itens selecionados. 3- Atualizar a página do carrinho de compras 'ADD TO CART' | 
+| Resultado Esperado | O sistema deve retornar a página do carrinho de compras 'ADD TO MART' , mostrando os itens e quantidades secionados, permitindo editar as quantidades dos itens.    | 
+| Resultado Encontrado | O sistema retornou a página do carrinho de compras com os itens selecionados, mas com bug no SKU N_1020_LU - sem o campo correspondente de quantidade, e o SKU SG_24_256B sem o campo referente a quantidades.  |
+| Ambiente de Teste | DEV - https://demo.nopcommerce.com/cart  | 
+| Prioridade | Alta  | 
+| Tipo | Funcionalidade  | 
+| Evidência | Print de Tela | 
+
+<img width="1238" height="942" alt="image" src="https://github.com/user-attachments/assets/6c035247-639c-45ba-80ec-ce4bc44e578e" />
 
 
