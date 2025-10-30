@@ -1,6 +1,33 @@
 ## Caso de Teste Manual: Teste Funcionais  – nopcommerce.com ##
 
+
+Link para acesso ao Caso de Teste no Google Sheets - Planilhas:
+
+
+https://docs.google.com/spreadsheets/d/1RaR0bIBcNcMlt2uP1Z3Ct9LxYfzMBImo9JBk0wKerJM/edit?usp=sharing
+
+
+Detalhamento do arquivo:
+
+- Planilha criada para a realização do processo completo de Testes para a plataforma, abordando Testes Funcionais, afim de validar seus requisitos e os fluxos principais do sistema de E-commerce.
+
+- O arquivo está exposto nas seguintes confdições: 08 Páginas (abas) distintas, sendo cada uma abortando uma fase do Case de Teste, estruturada da seguinte forma:
+- 01: Análise de Critésrios de Aceite
+- 02: Análise de Negócios
+- 03: Epic (Epíco)
+- 04: Histórias
+- 05: Critérios de Aceite
+- 06: Planejamento para a execução dos testes
+- 07: Manual Test - Testes Manuais
+- 08: Bug Report
+- 09: Test Report
+  
 _____________________________________________________________________
+
+
+Aqui, segue a estruturação completa dos Case de Teste elaborado para esse estudo:
+
+------------------------
 
 ## Identificação ##
 - Projeto: nopcommerce.com  - Manual Test Cases - 
