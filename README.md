@@ -21,7 +21,11 @@ Detalhamento do arquivo:
 - 07: Manual Test - Testes Manuais
 - 08: Bug Report
 - 09: Test Report
-  
+
+----------
+
+Segue link para o Jira, onde utilizando Metodologias Ágeis Scrum, realizei o versionamento do processo de teste. 
+Link Jira: https://joaquimnetopessoal.atlassian.net/jira/software/projects/CDTQ0/boards/133
 _____________________________________________________________________
 
 
