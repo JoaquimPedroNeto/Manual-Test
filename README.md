@@ -4,6 +4,7 @@
 Link para acesso ao Caso de Teste no Google Sheets - Planilhas:
 
 
+
 https://docs.google.com/spreadsheets/d/1RaR0bIBcNcMlt2uP1Z3Ct9LxYfzMBImo9JBk0wKerJM/edit?usp=sharing
 
 
