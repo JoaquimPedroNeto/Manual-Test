@@ -1,6 +1,7 @@
 ## Caso de Teste Manual: Teste Funcionais  – nopcommerce.com ##
 
 
+
 Link para acesso ao Caso de Teste no Google Sheets - Planilhas:
 
 
